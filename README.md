@@ -51,17 +51,8 @@ Inspired by **cyberpunk aesthetics**, the app features a **neon-on-dark theme**,
 
 ## 🚀 Deployment
 
-**Live App:** [Click here to try it on Streamlit Cloud](https://your-streamlit-deployment-link)
+**Live App:** [Click here to try it on Streamlit Cloud]([https://your-streamlit-deployment-link](https://time-traveler-s-portfolio-jggufziou5u3lfhcqverk3.streamlit.app/))
 
-*(Replace the link above with your deployed app URL.)*
-
----
-
-## 🎥 Demo Video
-
-**Watch Demo:** [Click here for walkthrough](https://your-demo-video-link)
-
-*(Replace the link above with your uploaded YouTube or Drive video link.)*
 
 ---
 
