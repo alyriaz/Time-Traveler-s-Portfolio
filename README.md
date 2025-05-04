@@ -20,22 +20,20 @@ Inspired by **cyberpunk aesthetics**, the app features a **neon-on-dark theme**,
 - Auto-fetch from Yahoo Finance or upload custom CSV
 - Calculate ROI, price change, and investment performance
 
-### 🔮 Future Price Forecasting
-- Linear regression model trained on historical closing prices
-- Predict prices up to 180 days into the future
-- Downloadable 180-day forecast as CSV
+### 🧠 Machine Learning Forecasting
+- Implements **Linear Regression** to predict stock prices
+- Uses `sklearn` to train and evaluate the model
+- Model is trained on daily closing prices with time (day index) as the independent variable
+- Evaluates accuracy using **Mean Squared Error (MSE)**
+- Predicts up to 180 future prices and allows downloading results
 
 ### 📊 Visualizations
 - Interactive investment growth line chart (Plotly)
 - Neon-themed correlation matrix with tech stocks (Seaborn)
 - Custom matrix-style animated background for intro
 
-### 🧠 Simulated Sentiment
-- Randomly selected market sentiment (Bullish / Neutral / Bearish)
-- Adds realism and unpredictability to the simulation
-
-### 💬 Investment Advice Generator
-- Random quotes and tips related to investing for user engagement
+### 🧙 Investment Advice Generator
+- Randomly cycles investment tips to simulate market wisdom
 
 ---
 
@@ -73,3 +71,4 @@ Inspired by **cyberpunk aesthetics**, the app features a **neon-on-dark theme**,
    ```bash
    git clone https://github.com/yourusername/time-travelers-portfolio.git
    cd time-travelers-portfolio
+
